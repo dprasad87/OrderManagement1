@@ -4,6 +4,7 @@
 ![alt Design](https://dzone.com/storage/temp/6609557-rest-model.png)
 
 Sample request json
+
 {
 
     "id": 1,
