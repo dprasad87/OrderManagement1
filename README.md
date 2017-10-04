@@ -6,13 +6,8 @@
 Sample request json
 
 {
-
     "id": 1,
-
     "description": "Some test description",
-
     "costInCents": 200,
-
     "complete": true
-
 }
