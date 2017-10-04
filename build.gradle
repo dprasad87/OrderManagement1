@@ -15,7 +15,7 @@ apply plugin: 'maven'
 group = 'com.learn.springboot.rest'
 version = '0.0.1-SNAPSHOT'
 
-description = """"""
+description = "Sample Spring boot app for learning microservice"
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
